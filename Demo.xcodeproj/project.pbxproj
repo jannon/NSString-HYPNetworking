@@ -11,6 +11,7 @@
 		1494D5481BDB93F6003C9770 /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1494D5471BDB93F6003C9770 /* Tests.m */; };
 		413648601D27B7FC0025A026 /* NSString_HYPNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 4136485F1D27B7FC0025A026 /* NSString_HYPNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		413648651D27B8220025A026 /* NSString+HYPNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 1494D5451BDB93ED003C9770 /* NSString+HYPNetworking.m */; };
+		413648751D27BADC0025A026 /* NSString+HYPNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 1494D5441BDB93ED003C9770 /* NSString+HYPNetworking.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				413648601D27B7FC0025A026 /* NSString_HYPNetworking.h in Headers */,
+				413648751D27BADC0025A026 /* NSString+HYPNetworking.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
